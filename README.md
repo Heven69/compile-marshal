@@ -2,4 +2,4 @@
 
 compile-marshal code by dicky077
 
-its tool decode script to marshal
+ecrypt your script to marshal.
