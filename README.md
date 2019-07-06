@@ -1,2 +1,5 @@
 # compile-marshal
-compile marshal. its tool decode script to marshal
+
+compile-marshal code by dicky077
+
+its tool decode script to marshal
